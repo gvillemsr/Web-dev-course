@@ -10,6 +10,7 @@
 .double {
 	border-style: double;
 	border-collapse: collapse;
+	text-align: left;
 }
 .marg{
     margin-top: 100px;
@@ -22,4 +23,8 @@
     border: 25px solid green;
     padding: 25px;
     margin: 25px;
+}
+.backimg{
+    background-image: 
+    url("museum.jpg");
 }
