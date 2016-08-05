@@ -7,3 +7,19 @@
 .backgdcol:hover{
 	background-color: red;
 }
+.double {
+	border-style: double;
+	border-collapse: collapse;
+}
+.marg{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+.box{
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
