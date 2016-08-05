@@ -1,0 +1,9 @@
+.redcol{
+	color: red;
+}
+.bluecol{
+	color: blue;
+}
+.backgdcol:hover{
+	background-color: red;
+}
